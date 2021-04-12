@@ -14,6 +14,7 @@
 	numpy >= 1.7.1  
 	networkx >= 1.9.1
 	gensim
+	MY: 可能需要gensim==3.8.1
 
 ## 兼容性
 适用于Python 2.7，已经测试过
